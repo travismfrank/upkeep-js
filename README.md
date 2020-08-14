@@ -35,6 +35,9 @@ For example:
       );
     };
 
+## Contribute
+Find UpkeepJS on [GitHub](https://github.com/TravisFrankMTG/upkeep-js)
+
 ## Authors
 Travis Frank - Initial Author - [TravisFrankMTG](https://github.com/TravisFrankMTG/)
 
